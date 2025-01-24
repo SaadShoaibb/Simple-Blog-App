@@ -50,6 +50,8 @@ header nav {
   gap: 24px;
 }
 
+
+
 div.post {
   display: grid;
   grid-template-columns: 1fr;
@@ -487,3 +489,5 @@ a svg {
   font-size: 0.9em;
   color: #999;
 }
+
+
